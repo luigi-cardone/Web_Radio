@@ -1,0 +1,43 @@
+@media only screen and (max-width: 742px) {
+  .title{
+    font-size: 40px !important;
+  }
+  .container{
+    margin-top: 35% !important;
+  }
+}
+
+body{
+  background-image: url('../imgs/South_Brothers.png');
+  background-size:auto;
+  background-repeat: no-repeat;
+  background-position-x: 20%;
+  background-position-y: 20%;
+}
+
+@font-face {
+  font-family: "Lovelo Bold";
+  src: url("../fonts/Lovelo\ Line\ Bold.otf");
+}
+
+.title{
+  font-family: "Lovelo Bold";
+  font-size: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+  text-shadow: 1px 1px 20px white ;
+}
+
+.player{
+  width: 100%; 
+  min-height: 150px; 
+  border: 0;
+}
+
+.container{
+  margin-top: 10%;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db98eb2f.css",
+    "main.js": "/static/js/main.4188a1bf.js",
+    "static/js/787.bf07260f.chunk.js": "/static/js/787.bf07260f.chunk.js",
+    "static/media/South_Brothers.png": "/static/media/South_Brothers.803a132c3052a643ae67.png",
+    "static/media/Lovelo Line Bold.otf": "/static/media/Lovelo Line Bold.bd9d8b0a9d0e6a0f74a4.otf",
+    "index.html": "/index.html",
+    "main.db98eb2f.css.map": "/static/css/main.db98eb2f.css.map",
+    "main.4188a1bf.js.map": "/static/js/main.4188a1bf.js.map",
+    "787.bf07260f.chunk.js.map": "/static/js/787.bf07260f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db98eb2f.css",
+    "static/js/main.4188a1bf.js"
+  ]
+}
