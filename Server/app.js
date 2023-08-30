@@ -10,7 +10,7 @@ const __dirname = dirname(__filename);
 
 const app = express()
 app.use(express.json())
-app.use(cors(corsOptions))
+// app.use(cors(corsOptions))
 app.use(express.static(path.join(__dirname + "/public")))
 app.get('/*', function(req, res) {
     res.sendFile(path.join(__dirname, '/public/index.html'), function(err) {

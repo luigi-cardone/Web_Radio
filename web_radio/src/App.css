@@ -5,6 +5,11 @@
   .container{
     margin-top: 35% !important;
   }
+  .player{
+    margin: 20px;
+    padding: 15px;
+    width: 80% !important;
+  }
 }
 
 body{
@@ -31,13 +36,21 @@ body{
 }
 
 .player{
-  width: 100%; 
+  box-shadow: black 1px 1px 20px;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 15px;
+  width: 100%;
+  max-width: 550px;
   min-height: 150px; 
   border: 0;
+  background-color: rgb(41, 39, 39);
 }
 
 .container{
   margin-top: 10%;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
